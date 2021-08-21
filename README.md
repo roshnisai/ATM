@@ -1,2 +1,2 @@
 # ATM
-This shows the information about deposits, withdrawal and to check balance.
+This shows the information about deposits, withdrawal and to Check balance.
